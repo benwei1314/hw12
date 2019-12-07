@@ -24,4 +24,4 @@ I want the walls to actually progressively speed up as I approach my win score.
 ball collision https://www.youtube.com/watch?v=JV5XBmaQdIA
 array https://www.youtube.com/watch?v=i2C1hrJMwz0
 array2 https://www.youtube.com/watch?v=VIQoUghHSxU
-Special thanks to my close friend, Zesen for helping with collision
+friend, Zesen 
