@@ -4,9 +4,7 @@ Player moves up and down to try to collect points to win. You want to dodge the 
 
 ## Summary
 
-A paragraph or two describing what you are building for your final project.
-
-Include a discussion of how it will be interactive or responsive to the environment.
+A game inspired by the pacer test. A dodging game.
 
 ## Component Parts
  Scoring system
