@@ -7,10 +7,10 @@ Player moves up and down to try to collect points to win. You want to dodge the 
 A game inspired by the pacer test. A dodging game.
 
 ## Component Parts
- Scoring system
- Gradually increase difficulty
- Collision detection
- Keypress control
+ Scoring system.
+ Gradually increase difficulty.
+ Collision detection.
+ Keypress control.
  
 ## Challenges
 The scoring and hurting sound doesn't always work.
@@ -20,7 +20,7 @@ I want the walls to randomize when it goes to the bottom and does back down. So 
 I want the walls to actually progressively speed up as I approach my win score.
 
 ## References and links
-//ball collision https://www.youtube.com/watch?v=JV5XBmaQdIA
-//array https://www.youtube.com/watch?v=i2C1hrJMwz0
-//array2 https://www.youtube.com/watch?v=VIQoUghHSxU
+ball collision https://www.youtube.com/watch?v=JV5XBmaQdIA
+array https://www.youtube.com/watch?v=i2C1hrJMwz0
+array2 https://www.youtube.com/watch?v=VIQoUghHSxU
 My close friend, Zesen
