@@ -1,4 +1,3 @@
-#Link
 https://editor.p5js.org/benwei1314/sketches/rfgsbmBHP
 
 # Fitness Gram Pacer Test Game
